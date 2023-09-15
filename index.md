@@ -8,6 +8,8 @@ The PASTA-Toolbox (**Pa**rallel **St**ring **A**lgorithms) is a collection of ea
 It's lead developer is [Florian Kurpicz](https://kurpicz.org).
 Currently, the library is under development and more projects will be added in the (near) future.
 
+You can find the PASTA-Toolbox at [GitHub](https://github.com/pasta-toolbox).
+
 ## Projects
 Right now, there are two PASTA projects.
 
