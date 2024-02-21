@@ -19,5 +19,5 @@ Right now, there are two PASTA projects.
 Fast and highly tuned bit vector implementation including space efficient rank and select support having only 3.51% space overhead.|Engineered block tree construction based on the Longest Previous Factor array that also works in parallel.
 
 ## Publications
-- Dominik Köppl, Florian Kurpicz, and Daniel Meyer: *Faster Block Tree Construction*. In: 31st European Symposium on Algorithms (ESA), 74:1--74:20, doi: [10.4230/LIPIcs.ESA.2023.74](doi.org/10.4230/LIPIcs.ESA.2023.74), 2023.
-- Florian Kurpicz: *Engineering Compact Data Structures for Rank and Select Queries on Bit Vectors*. In: 29th Symposium on String Processing and Information Retrieval (SPIRE), 257–272, doi: [10.1007/978-3-031-20643-6_19](https://doi.org/10.1007/978-3-031-20643-6_19), 2022.
+- Dominik Köppl, Florian Kurpicz, and Daniel Meyer: *[Faster Block Tree Construction](/assets/publications/esa_2023a.pdf)*. In: 31st European Symposium on Algorithms (ESA), 74:1--74:20, doi: [10.4230/LIPIcs.ESA.2023.74](doi.org/10.4230/LIPIcs.ESA.2023.74), 2023.
+- Florian Kurpicz: *[Engineering Compact Data Structures for Rank and Select Queries on Bit Vectors](/assets/publications/spire_2022.pdf)*. In: 29th Symposium on String Processing and Information Retrieval (SPIRE), 257–272, doi: [10.1007/978-3-031-20643-6_19](https://doi.org/10.1007/978-3-031-20643-6_19), 2022.
